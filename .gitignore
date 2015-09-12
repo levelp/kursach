@@ -1,0 +1,6 @@
+*.~*
+*.obj
+*.tds
+*.exe
+*.ddp
+Thumbs.db
